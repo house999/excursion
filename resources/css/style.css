@@ -1,4 +1,4 @@
-html {
+body {
   background-color:black;
   text-align: center;
   font-family: verdana;
@@ -15,7 +15,7 @@ p {
   font-size:21px;
   color:gray;
 }
-p.footer {
+.footer {
   text-align: right;
 }
 .comingsoon {
