@@ -6,7 +6,6 @@ html {
 }
 h1 {
   font-size: 50px;
-  text-align: center;
 }
 h2 {
 font-size:42px;
@@ -15,9 +14,8 @@ font-weight: 300;
 p {
   font-size:21px;
   color:gray;
-  text-align: center;
 }
-.footer {
+p.footer {
   text-align: right;
 }
 .comingsoon {
